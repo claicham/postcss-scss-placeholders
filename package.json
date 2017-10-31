@@ -1,0 +1,28 @@
+{
+  "name": "postcss-scss-placeholders",
+  "version": "1.0.0",
+  "description": "Simple plugin to convert a set of classes or ids to scss placeholders, no frills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "scss",
+    "placeholders"
+  ],
+  "author": "claicham",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/claicham/postcss-scss-placeholders.git"
+  }
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/claicham/postcss-scss-placeholders/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "postcss": "^6.0.13"
+  }
+}
