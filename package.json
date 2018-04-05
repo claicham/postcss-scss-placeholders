@@ -1,6 +1,6 @@
 {
   "name": "postcss-scss-placeholders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple plugin to convert a set of classes or ids to scss placeholders, no frills.",
   "main": "index.js",
   "scripts": {
